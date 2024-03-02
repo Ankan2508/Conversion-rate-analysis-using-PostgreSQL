@@ -1,4 +1,5 @@
 # Conversion-rate-analysis-using-PostgreSQL
+https://medium.com/@ankan.ab21/calculating-free-to-paid-conversion-rate-with-sql-project-a98e48ca7b48
 Calculating the Fraction of Students Who Convert to Paying Ones after Starting a Course
 Project Overview
 The objective is to estimate the free-to-paid conversion rate among students who engage with video content on the 365 platform. This involves working with three tables containing information about students' registration dates, engagement dates, and subscription purchase dates. The project not only focuses on calculating the conversion rate but also includes the analysis of additional key metrics to draw meaningful conclusions from the data.
